@@ -1,0 +1,2 @@
+# InformationdatabaseDocumentation
+Tietojärjestelmien hyödyntäminen-kurssin ohjeita ja dokumentaatiota
